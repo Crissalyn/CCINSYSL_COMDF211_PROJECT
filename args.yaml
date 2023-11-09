@@ -12,7 +12,7 @@ cache: false
 device: null
 workers: 8
 project: null
-name: train
+name: train9
 exist_ok: false
 pretrained: true
 optimizer: auto
@@ -95,4 +95,4 @@ mixup: 0.0
 copy_paste: 0.0
 cfg: null
 tracker: botsort.yaml
-save_dir: runs/detect/train
+save_dir: runs/detect/train9
